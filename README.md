@@ -1,4 +1,4 @@
-# stacklite-mentor
+# stacklite-mentor C#
 Design Philosophy
 
 The agent is built around four core principles:
